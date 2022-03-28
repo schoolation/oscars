@@ -1,0 +1,345 @@
+#EXTM3U
+#EXTINF:0,ABC NEWS HD
+http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
+#EXTINF:0,ABC NEWS LINK 2 HD
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0,LONDON LIVE
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0,BBC AMERICA
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:0,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#7
+#EXTINF:0,CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:0,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:0,TRU TV
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+#EXTINF:0,DISCOVERY
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:0,ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0,NICK TOONS
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:0,TNT
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:0,TSN
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+#EXTINF:0,USA_Astro_SUPERSPORT_03
+http://thaiweb12.mine.nu:8000/live/webtro2/OdEsGsRYFX/810.ts
+#EXTINF:0,HBO
+http://list9.isonline.me:8000/live/testapp/testapp/280.ts
+#EXTINF:0,TNT US
+http://list9.isonline.me:8000/live/testapp/testapp/674.ts
+#EXTINF:0,wwe
+http://list9.isonline.me:8000/live/testapp/testapp/703.ts
+#EXTINF:0,THE WEATHER CHANNEL
+http://list9.isonline.me:8000/live/testapp/testapp/706.ts
+#EXTINF:0,TENNIS CHANNEL
+http://list9.isonline.me:8000/live/testapp/testapp/699.ts
+#EXTINF:0,SYFY US
+http://list9.isonline.me:8000/live/testapp/testapp/672.ts
+#EXTINF:0,NHL
+http://list9.isonline.me:8000/live/testapp/testapp/698.ts
+#EXTINF:0,NBC
+http://list9.isonline.me:8000/live/testapp/testapp/697.ts
+#EXTINF:0,nasa tv
+http://list9.isonline.me:8000/live/testapp/testapp/704.ts
+#EXTINF:0,LIFETIME US
+http://list9.isonline.me:8000/live/testapp/testapp/696.ts
+#EXTINF:0,animal planet us
+http://list9.isonline.me:8000/live/testapp/testapp/702.ts
+#EXTINF:0,FX US
+http://list9.isonline.me:8000/live/testapp/testapp/695.ts
+#EXTINF:0,FOX NEWS
+http://list9.isonline.me:8000/live/testapp/testapp/693.ts
+#EXTINF:0,FOX 5
+http://list9.isonline.me:8000/live/testapp/testapp/694.ts
+#EXTINF:0,CW11
+http://list9.isonline.me:8000/live/testapp/testapp/692.ts
+#EXTINF:0,CW
+http://list9.isonline.me:8000/live/testapp/testapp/670.ts
+#EXTINF:0,cooking channel us
+http://list9.isonline.me:8000/live/testapp/testapp/701.ts
+#EXTINF:0,CNN US
+http://list9.isonline.me:8000/live/testapp/testapp/688.ts
+#EXTINF:0,CBS
+http://list9.isonline.me:8000/live/testapp/testapp/691.ts
+#EXTINF:0,bloomberg us
+http://list9.isonline.me:8000/live/testapp/testapp/705.ts
+#EXTINF:0,ABC
+http://list9.isonline.me:8000/live/testapp/testapp/690.ts
+#EXTINF:0,A&E US
+http://list9.isonline.me:8000/live/testapp/testapp/689.ts
+#EXTINF:0,RT AMERICA
+http://list9.isonline.me:8000/live/testapp/testapp/675.ts
+#EXTINF:0,PBS
+http://list9.isonline.me:8000/live/testapp/testapp/676.ts
+#EXTINF:0,HISTORY US
+http://list9.isonline.me:8000/live/testapp/testapp/679.ts
+#EXTINF:0,CNBC
+http://list9.isonline.me:8000/live/testapp/testapp/680.ts
+#EXTINF:0,CBS2
+http://list9.isonline.me:8000/live/testapp/testapp/668.ts
+#EXTINF:0,ABC NEWS
+http://list9.isonline.me:8000/live/testapp/testapp/502.ts
+#EXTINF:0,BEIN SPORT USA
+http://list9.isonline.me:8000/live/testapp/testapp/467.ts
+#EXTINF:0,BRAVO CA
+http://list9.isonline.me:8000/live/testapp/testapp/469.ts
+#EXTINF:0,USA NETWORK
+http://list9.isonline.me:8000/live/testapp/testapp/449.ts
+#EXTINF:0,HBO SIGNATURE.
+http://list9.isonline.me:8000/live/testapp/testapp/279.ts
+#EXTINF:0,HG TV
+http://list9.isonline.me:8000/live/testapp/testapp/273.ts
+#EXTINF:0,AMC
+http://list9.isonline.me:8000/live/testapp/testapp/274.ts
+#EXTINF:0,HBO ZONE
+http://list9.isonline.me:8000/live/testapp/testapp/275.ts
+#EXTINF:0,Travel Channel CA
+http://list9.isonline.me:8000/live/testapp/testapp/448.ts
+#EXTINF:0,HBO COMEDY
+http://list9.isonline.me:8000/live/testapp/testapp/281.ts
+#EXTINF:0,SHOWTIME
+http://list9.isonline.me:8000/live/testapp/testapp/282.ts
+#EXTINF:0,E CA
+http://list9.isonline.me:8000/live/testapp/testapp/452.ts
+#EXTINF:0,NBA USA
+http://list9.isonline.me:8000/live/testapp/testapp/277.ts
+#EXTINF:0,AFN ATLANTIC
+http://list9.isonline.me:8000/live/testapp/testapp/461.ts
+#EXTINF:0,SHOWTIME EXTREM
+http://list9.isonline.me:8000/live/testapp/testapp/450.ts
+#EXTINF:0,AFN Movie
+http://list9.isonline.me:8000/live/testapp/testapp/465.ts
+#EXTINF:0,AFN NEWS
+http://list9.isonline.me:8000/live/testapp/testapp/466.ts
+#EXTINF:0,Pac-12 Network
+http://list9.isonline.me:8000/live/testapp/testapp/495.ts
+#EXTINF:0,A&E HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3876.ts
+#EXTINF:0,ABC News
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3905.ts
+#EXTINF:0,ABC HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3906.ts
+#EXTINF:0,AFN Sports HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2826.ts
+#EXTINF:0,AFN Sports 2 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2825.ts
+#EXTINF:0,AMC HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2873.ts
+#EXTINF:0,Animal Planet HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3307.ts
+#EXTINF:0,BET
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3879.ts
+#EXTINF:0,BeIN Sports HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2817.ts
+#EXTINF:0,BT Sport | ESPN
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2816.ts
+#EXTINF:0,Bravo HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3878.ts
+#EXTINF:0,BTN 1 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4246.ts
+#EXTINF:0,BTN 2 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4245.ts
+#EXTINF:0,BTN 3 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4244.ts
+#EXTINF:0,BTN 4 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4243.ts
+#EXTINF:0,CBS Sports Network HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2818.ts
+#EXTINF:0,CBS HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2874.ts
+#EXTINF:0,CBS News
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2875.ts
+#EXTINF:0,CBS Pop HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4247.ts
+#EXTINF:0,Cinemax Max W HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3893.ts
+#EXTINF:0,CNN HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3907.ts
+#EXTINF:0,Comedy Central HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3892.ts
+#EXTINF:0,C-SPAN
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3902.ts
+#EXTINF:0,C-SPAN 2
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3901.ts
+#EXTINF:0,C-SPAN 3
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3900.ts
+#EXTINF:0,CW HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3887.ts
+#EXTINF:0,Disney Channel HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4242.ts
+#EXTINF:0,Discovery Showcase
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2860.ts
+#EXTINF:0,Discovery Science HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2861.ts
+#EXTINF:0,Discovery Channel HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2862.ts
+#EXTINF:0,Destination America
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3891.ts
+#EXTINF:0,ESPN HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2852.ts
+#EXTINF:0,ESPN 2 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2851.ts
+#EXTINF:0,ESPN 3 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2850.ts
+#EXTINF:0,ESPN News HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2849.ts
+#EXTINF:0,ESPN U
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3305.ts
+#EXTINF:0,FX HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4117.ts
+#EXTINF:0,Fight Network HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2840.ts
+#EXTINF:0,Fight Sport HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2839.ts
+#EXTINF:0,Food Network
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3880.ts
+#EXTINF:0,Fox HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4237.ts
+#EXTINF:0,Fox News HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3904.ts
+#EXTINF:0,Fox Sports 1 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2824.ts
+#EXTINF:0,Fox Sports 2 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2823.ts
+#EXTINF:0,Freeform HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4240.ts
+#EXTINF:0,Fusion HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4249.ts
+#EXTINF:0,Global HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4182.ts
+#EXTINF:0,HBO
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2867.ts
+#EXTINF:0,HBO 2 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2863.ts
+#EXTINF:0,HBO 3 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4239.ts
+#EXTINF:0,HBO Comedy
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2864.ts
+#EXTINF:0,HBO Signature
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2866.ts
+#EXTINF:0,HBO Zone
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2865.ts
+#EXTINF:0,HBO Family HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3894.ts
+#EXTINF:0,Hallmark HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3890.ts
+#EXTINF:0,History HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3308.ts
+#EXTINF:0,IFC HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4248.ts
+#EXTINF:0,Info Wars
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3899.ts
+#EXTINF:0,Investigation Discovery HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3303.ts
+#EXTINF:0,Lifetime HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3889.ts
+#EXTINF:0,LongHorn Network HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2811.ts
+#EXTINF:0,MLB Network HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2859.ts
+#EXTINF:0,MSNBC
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3903.ts
+#EXTINF:0,MTV HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2858.ts
+#EXTINF:0,MTV Live HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2857.ts
+#EXTINF:0,MTV Live USA
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2856.ts
+#EXTINF:0,National Geographic HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2855.ts
+#EXTINF:0,NBA TV
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3304.ts
+#EXTINF:0,NBA USA HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2847.ts
+#EXTINF:0,NBC Golf HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3875.ts
+#EXTINF:0,NBC HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3908.ts
+#EXTINF:0,NBC Sports Network HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4236.ts
+#EXTINF:0,NFL Network HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2842.ts
+#EXTINF:0,NFL Now HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2843.ts
+#EXTINF:0,NFL RedZone (Live on GameDay)
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2841.ts
+#EXTINF:0,NHL Now HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2814.ts
+#EXTINF:0,Outside HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4250.ts
+#EXTINF:0,OWN HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4252.ts
+#EXTINF:0,Oxygen HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/4241.ts
+#EXTINF:0,PAC 12 Los Angeles HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2833.ts
+#EXTINF:0,PAC-12 Arizona HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2832.ts
+#EXTINF:0,PAC-12 Bay Area HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2831.ts
+#EXTINF:0,PAC-12 Los Angeles HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2830.ts
+#EXTINF:0,PAC-12 Mountain HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2829.ts
+#EXTINF:0,PAC-12 Oregon HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2828.ts
+#EXTINF:0,PAC-12 Washington HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2827.ts
+#EXTINF:0,PBS HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2813.ts
+#EXTINF:0,Press TV HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3898.ts
+#EXTINF:0,RT Documentary HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3895.ts
+#EXTINF:0,RT HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3897.ts
+#EXTINF:0,Showtime HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3883.ts
+#EXTINF:0,Spike TV
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2869.ts
+#EXTINF:0,Sportsnet One HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2821.ts
+#EXTINF:0,SportsNet Pacific HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2819.ts
+#EXTINF:0,Sportsnet 360 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2820.ts
+#EXTINF:0,Starz HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3886.ts
+#EXTINF:0,Starz Comedy HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3885.ts
+#EXTINF:0,Starz Edge HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3884.ts
+#EXTINF:0,Syfy HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3882.ts
+#EXTINF:0,TBS HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2872.ts
+#EXTINF:0,TLC HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2871.ts
+#EXTINF:0,TNT HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3881.ts
+#EXTINF:0,TSN 1 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2838.ts
+#EXTINF:0,TSN 2 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2837.ts
+#EXTINF:0,TSN 3 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2836.ts
+#EXTINF:0,TSN 4 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2835.ts
+#EXTINF:0,TSN 5 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2834.ts
+#EXTINF:0,Travel Channel
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2854.ts
+#EXTINF:0,USA Network
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2870.ts
+#EXTINF:0,VH1 HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/3877.ts
+#EXTINF:0,Velocity HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2810.ts
+#EXTINF:0,Willow Cricket HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2809.ts
+#EXTINF:0,WWE Network HD
+http://watch.eclipseiptv.com/live/Jc1HJPRNki/T7ggYz0khh/2845.ts 
